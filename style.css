@@ -1,0 +1,19 @@
+.container{
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  margin-top: 20px ;
+  
+}
+.trx1{
+  background-color: rgb(231, 23, 23);
+}
+.trx2{
+  background-color: rgb(247, 223, 8);
+}
+.trx3{
+  background-color: rgb(24, 138, 1);
+}
+.trx4{
+  background-color: rgb(45, 9, 131);
+}
